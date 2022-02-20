@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JHcoding0
-- 👀 I’m interested in completeing projects
+- 👀 I’m interested in completing projects
 - 🌱 I’m currently learning a variety of programming languages
 
 
